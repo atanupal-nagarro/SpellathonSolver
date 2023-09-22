@@ -46,7 +46,7 @@ Welcome to Spellathon solver!!
 This program will generate words that have all essential characters and zero or more other characters - that you provide as inputs.
 Word will not have any character apart from essentials and others
 
-
+<pre>
 Please enter String with essential characters, eg ca
 ca
 Please enter String with other characters, eg tbe
@@ -73,3 +73,4 @@ File (output.txt) writing done at C:\Users\atanupal\IdeaProjects\SpellathonSolve
 Want to play again (y/n)? Please enter either "y" or "n" only (case-insensitive)
 n
 
+</pre>
