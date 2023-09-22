@@ -3,6 +3,8 @@
 This program will generate words that have all essential characters and zero or more other characters - that you provide as inputs.
 Word will not have any character apart from essentials and others
 
+**Team Members**
+atanu.pal@nagarro.com, renu.singh@nagarro.com
 
 **About Spellathon Solver: How to Play**
 
